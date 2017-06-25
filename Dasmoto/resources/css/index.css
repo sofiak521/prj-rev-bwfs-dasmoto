@@ -1,0 +1,30 @@
+* {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.mainBanner {
+  color: khaki;
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+  background-image: url("pattern.jpeg");
+  background-color: transparent;
+}
+
+h2 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.blue1
+{
+  font-weight: bold;
+  color: blue;
+}
+
+img {
+  width: 250;
+  height: 250;
+}
